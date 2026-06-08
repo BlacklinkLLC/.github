@@ -31,12 +31,6 @@ A source credibility and media literacy platform built around the Trust Standard
 ### Note26
 A modern note-taking and organization platform designed for learning, planning, and knowledge management.  [oai_citation:4‡Blacklink](https://blacklink.net/?utm_source=github.com)
 
-### NOVA
-Blacklink's design system, component library, and interface framework used across our ecosystem.  [oai_citation:5‡NOVA Design System](https://nova.blacklink.net/?utm_source=github.com)
-
-### AeroAI
-An educational AI initiative focused on supporting learning through guidance, exploration, and understanding.  [oai_citation:6‡Wikipedia](https://en.wikipedia.org/wiki/Blacklink_Education?utm_source=github.com)
-
 ---
 
 ## Our Principles
