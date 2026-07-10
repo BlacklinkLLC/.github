@@ -1,4 +1,6 @@
 <div align="center">
+<img width="50" height="50" alt="Blacklink Logo" src="https://github.com/user-attachments/assets/43068f8b-87e5-43ea-aadc-dd3b2d7ea26b" />
+
 
 # Blacklink
 
