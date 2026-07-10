@@ -14,24 +14,22 @@ Building educational infrastructure that helps people think.
 
 ## What is Blacklink?
 
-Blacklink is an education-focused technology organization creating privacy-first tools for students, educators, schools, and lifelong learners. Blacklink develops software designed to support understanding, critical thinking, organization, and digital literacy rather than simply helping users complete tasks.  [oai_citation:0‡Blacklink](https://blacklink.net/about?utm_source=github.com)
+Blacklink is an education-focused technology organization creating privacy-first tools for students, educators, schools, and lifelong learners. Blacklink develops software designed to support understanding, critical thinking, organization, and digital literacy rather than simply helping users complete tasks.
 
 Our mission is simple:
 
-> Education should help people build understanding — not just survive systems.  [oai_citation:1‡Blacklink](https://blacklink.net/about?utm_source=github.com)
+> Education should help people build understanding — not just survive systems. 
 
 ---
 
 ## Projects
 
 ### BellRinger
-Adaptive scheduling software for schools with support for configurable blocks, special schedules, and campus-wide timing controls.  [oai_citation:2‡Blacklink](https://blacklink.net/?utm_source=github.com)
-
+Adaptive scheduling software for schools with support for configurable blocks, special schedules, and campus-wide timing controls.
 ### Trust
-A source credibility and media literacy platform built around the Trust Standard™, helping learners evaluate information critically.  [oai_citation:3‡Blacklink](https://blacklink.net/?utm_source=github.com)
-
+A source credibility and media literacy platform built around the Trust Standard™, helping learners evaluate information critically.
 ### Note26
-A modern note-taking and organization platform designed for learning, planning, and knowledge management.  [oai_citation:4‡Blacklink](https://blacklink.net/?utm_source=github.com)
+A modern note-taking and organization platform designed for learning, planning, and knowledge management.
 
 ---
 
@@ -42,7 +40,7 @@ A modern note-taking and organization platform designed for learning, planning, 
 - Built for educators and learners
 - Accessibility by default
 - Calm, modern interfaces
-- Technology that supports thinking instead of replacing it  [oai_citation:7‡Blacklink](https://blacklink.net/about?utm_source=github.com)
+- Technology that supports thinking instead of replacing it 
 
 ---
 
@@ -55,8 +53,7 @@ We believe educational technology should respect users.
 - Minimal data collection
 - FERPA-aware design
 - COPPA-aware design
-- Transparent policies and documentation  [oai_citation:8‡Blacklink](https://blacklink.net/legal/privacy.html?utm_source=github.com)
-
+- Transparent policies and documentation 
 Learn more in our Legal Center:
 https://blacklink.net/legal
 
@@ -104,5 +101,6 @@ District Partnerships: districts@blacklink.net
 ### Burn the system and build one better.
 
 Built with ❤️ by the Blacklink community.
+Kirkwood, Missouri, United States of America
 
 </div>
